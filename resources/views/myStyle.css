@@ -1,0 +1,58 @@
+body{
+    background:url(/public/imagens/paper.jpg);
+}
+.bannerApogeu{
+    background-size: 50%;
+    background: url(/public/imagens/apogeu.png) no-repeat center;
+    width: 1080px;
+    height: 200px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.BannerDireito{
+    width: 150px;
+    height: auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.BannerEsquerdo{
+    width: 150px;
+    height: auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px
+}
+
+.formStyle{
+    background-color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 500px;
+    border-radius: 10px;
+    padding-top: 20px;
+}
+
+.FormAdap{
+    padding-top: 10px;
+}
+
+.containerBannerApogeu{
+    align-content: center;
+
+}
+.panelButtonsBottom{
+    align-content: center;
+    background-color:#000080;
+    height: 40px;
+    text-align: center ;
+    color: white;
+}
+.panelButtonsTop{
+    align-content: center;
+    background-color:#000080;
+    height: 40px;
+    text-align: center ;
+    color: white;
+}
